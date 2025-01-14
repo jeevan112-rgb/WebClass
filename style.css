@@ -1,0 +1,45 @@
+body {
+    font-family:Arial,sans-serif;
+    margin: 20px;
+    background-color: black;
+    color: burlywood ;
+
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+p {
+    text-align: justify;
+    padding: 15px;
+    background: bisque;
+    border-radius: 10px;
+}
+h2 {
+    color: brown;
+}
+p {
+    text-align: justify;
+    padding: 15px;
+    background: bisque;
+    border-radius: 10px;
+}
+img {
+    margin: 80px;
+    max-width: 100%
+    border-radius: 8px;
+
+}
+
+h3 {
+    color: brown;
+}
+p {
+    text-align: justify;
+    padding: 15px;
+    background: bisque;
+    border-radius: 10px;
+}
+h4 {
+    color: brown;
+}
